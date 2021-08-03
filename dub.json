@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Mathias Lang"
+	],
+	"copyright": "Copyright © 2021, Mathias Lang",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "github-actions-test"
+}
